@@ -1,0 +1,103 @@
+D:\DOC\SI - atividade\projetoAdminContas\bin\Debug\projetoAdminContas.exe.config
+D:\DOC\SI - atividade\projetoAdminContas\bin\Debug\projetoAdminContas.exe
+D:\DOC\SI - atividade\projetoAdminContas\bin\Debug\projetoAdminContas.pdb
+D:\DOC\SI - atividade\projetoAdminContas\bin\Debug\projetoAdminContas.xml
+D:\DOC\SI - atividade\projetoAdminContas\obj\Debug\projetoAdminContas.vbproj.AssemblyReference.cache
+D:\DOC\SI - atividade\projetoAdminContas\obj\Debug\projetoAdminContas.vbproj.SuggestedBindingRedirects.cache
+D:\DOC\SI - atividade\projetoAdminContas\obj\Debug\projetoAdminContas.Resources.resources
+D:\DOC\SI - atividade\projetoAdminContas\obj\Debug\projetoAdminContas.vbproj.GenerateResource.cache
+D:\DOC\SI - atividade\projetoAdminContas\obj\Debug\projetoAdminContas.vbproj.CoreCompileInputs.cache
+D:\DOC\SI - atividade\projetoAdminContas\obj\Debug\projetoAdminContas.exe
+D:\DOC\SI - atividade\projetoAdminContas\obj\Debug\projetoAdminContas.xml
+D:\DOC\SI - atividade\projetoAdminContas\obj\Debug\projetoAdminContas.pdb
+D:\DOC\SI - atividade\projetoAdminContas\obj\Debug\projetoAdminContas.frm_login.resources
+D:\DOC\SI - atividade\projetoAdminContas\obj\Debug\projetoAdminContas.frm_cadastro.resources
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\bin\Debug\projetoAdminContas.exe.config
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\bin\Debug\projetoAdminContas.exe
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\bin\Debug\projetoAdminContas.pdb
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\bin\Debug\projetoAdminContas.xml
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.frm_cadastro.resources
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.frm_login.resources
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.Resources.resources
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.exe
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.xml
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.pdb
+C:\Users\aluno\Desktop\Projeto verão\projeto.net\obj\Debug\projetoAdminContas.frm_menu_admin.resources
+D:\projetoAdminContas\bin\Debug\projetoAdminContas.exe.config
+D:\projetoAdminContas\bin\Debug\projetoAdminContas.exe
+D:\projetoAdminContas\bin\Debug\projetoAdminContas.pdb
+D:\projetoAdminContas\bin\Debug\projetoAdminContas.xml
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.vbproj.AssemblyReference.cache
+D:\projetoAdminContas\obj\Debug\Interop.ADODB.dll
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.vbproj.ResolveComReference.cache
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.frm_cadastro.resources
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.frm_login.resources
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.frm_menu_admin.resources
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.Resources.resources
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.vbproj.GenerateResource.cache
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.vbproj.CoreCompileInputs.cache
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.exe
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.xml
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.pdb
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.vbproj.AssemblyReference.cache
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\Interop.ADODB.dll
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.vbproj.ResolveComReference.cache
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.exe
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.xml
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.pdb
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\bin\Debug\projetoAdminContas.exe.config
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\bin\Debug\projetoAdminContas.exe
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\bin\Debug\projetoAdminContas.pdb
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\bin\Debug\projetoAdminContas.xml
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.frm_cadastro.resources
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.frm_login.resources
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.frm_menu_admin.resources
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.Resources.resources
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.vbproj.GenerateResource.cache
+C:\Users\gb10\Desktop\ProjetoSI\projetoSI\projeto.net-work_branch\obj\Debug\projetoAdminContas.vbproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\ProjetoFinal.1.1\bin\Debug\projetoAdminContas.exe.config
+C:\Users\chris\Desktop\ProjetoFinal.1.1\bin\Debug\projetoAdminContas.exe
+C:\Users\chris\Desktop\ProjetoFinal.1.1\bin\Debug\projetoAdminContas.pdb
+C:\Users\chris\Desktop\ProjetoFinal.1.1\bin\Debug\projetoAdminContas.xml
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.vbproj.AssemblyReference.cache
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\Interop.ADODB.dll
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.vbproj.ResolveComReference.cache
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.frm_cadastro.resources
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.frm_login.resources
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.frm_menu_admin.resources
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.Resources.resources
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.vbproj.GenerateResource.cache
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.vbproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.exe
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.xml
+C:\Users\chris\Desktop\ProjetoFinal.1.1\obj\Debug\projetoAdminContas.pdb
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.frm_cadastro_clientes.resources
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\bin\Debug\projetoAdminContas.exe.config
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\bin\Debug\projetoAdminContas.exe
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\bin\Debug\projetoAdminContas.pdb
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\bin\Debug\projetoAdminContas.xml
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.vbproj.AssemblyReference.cache
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\Interop.ADODB.dll
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.vbproj.ResolveComReference.cache
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.frm_cadastro.resources
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.frm_cadastro_clientes.resources
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.frm_cadastro_produtos.resources
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.frm_login.resources
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.frm_menu_admin.resources
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.Resources.resources
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.vbproj.GenerateResource.cache
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.vbproj.CoreCompileInputs.cache
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.exe
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.xml
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.pdb
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.frm_cadastro_produtos.resources
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.frm_fazer_pedido.resources
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.frm_carrinho.resources
+D:\projetoAdminContas\obj\Debug\projetoAdminContas.frm_visualizar_pedidos.resources
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.frm_carrinho.resources
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.frm_fazer_pedido.resources
+C:\Users\gb10\Desktop\ProjetoSI\ProjetoFina\projeto.net\obj\Debug\projetoAdminContas.frm_visualizar_pedidos.resources
